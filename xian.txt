@@ -1,4 +1,5 @@
-{"urls"：[{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/饭太硬/api.json"，"name"：饭太硬"}，
+{"urls"：
+[{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/饭太硬/api.json"，"name"：饭太硬"}，
 
 {"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/小米/api.json"，"name"："小米"}，
 
