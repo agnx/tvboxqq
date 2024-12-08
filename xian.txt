@@ -1,29 +1,86 @@
-{"urls"：
-[{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/饭太硬/api.json"，"name"：饭太硬"}，
+{ "urls": [
 
-{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/小米/api.json"，"name"："小米"}，
+{ "url": "clan://localhost/2/", "name": "下面带有本地的请勿点击👇" },
 
-{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/肥猫/api.json"，"name"："肥猫"}，
+{ "url": "clan://localhost/2/c18h.pdd", "name": "本地c18h.pdd需要/2下面勿点" },
 
-{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/王二小/api.json"，"name"："王二小"}，
+{ "url": "http://192.168.8.8:8080/tv?token=6a87d589e7a1e221", "name": "本地T4搜索勿点" },
 
-{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/摸鱼儿/api.json"，"name"："摸鱼儿"}，
+{ "url": "http://192.168.8.8:8080/tv?token=6a87d589e7a1e221&platform=ysc", "name": "本地T4影视仓搜索勿点" },
 
-{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/潇洒/api.json"，"name"："潇洒"}，
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/pg/jsm.bmp", "name": "pg瓜子简化版可能会被屏蔽" },
 
-{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/南风/api.json"，"name"："南风"}，
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/yaya.json", "name": "yaya线路" },
 
-{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/香雅情/api.json"，"name"："香雅情"}，
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/饭太硬/api.json", "name": "饭太硬" },
 
-{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/天天开心/api.json"，"name"："天天开心"}，
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/小米/api.json", "name": "小米" },
 
-{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/骚扰零/api.json"，"name"："骚零"}，
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/肥猫/api.json", "name": "肥猫" },
 
-{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/OK/api.json"，"name"："OK"}，
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/王二小/api.json", "name": "王二小" },
 
-{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/戏曲音乐/api.json"，"name"："戏曲音乐"}，
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/摸鱼儿/api.json", "name": "摸鱼儿" },
 
-{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/短剧频道/api.json"，"name"："短剧频道"}，
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/潇洒/api.json", "name": "潇洒" },
 
-{"url"："https://ghp.ci/raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/小儿频道/api.json"，"name"："少儿频道"}
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/香雅情/api.json", "name": "香雅情" },
+
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/天天开心/api.json", "name": "天天开心" },
+
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/南风/api.json", "name": "南风" },
+
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/骚零/api.json", "name": "骚零" },
+
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/OK/api.json", "name": "OK" },
+
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/蜂蜜/yingshi.fongmi.eu.json", "name": "蜂蜜线路" },
+
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/戏曲音乐/api.json", "name": "戏曲音乐" },
+
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/短剧频道/api.json", "name": "短剧频道" },
+
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/少儿频道/api.json", "name": "少儿频道" },
+
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【天微VIP线】/api.json", "name": "天威【天微VIP线】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【飞龙影视】/api.json", "name": "天威【飞龙影视】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【七星影视】/api.json", "name": "天威【七星影视】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【饭太硬线】/api.json", "name": "天威【饭太硬线】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【香雅情线】/api.json", "name": "天威【香雅情线】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【短剧频道】/api.json", "name": "天威【短剧频道】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【王二小线】/api.json", "name": "天威【王二小线】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【OK线路】/api.json", "name": "天威【OK线路】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【戏曲音乐】/api.json", "name": "天威【戏曲音乐】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【肥猫线路】/api.json", "name": "天威【肥猫线路】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【摸鱼线路】/api.json", "name": "天威【摸鱼线路】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【讴歌线路】/api.json", "name": "天威【讴歌线路】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【骚零影视】/api.json", "name": "天威【骚零影视】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【少儿频道】/api.json", "name": "天威【少儿频道】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【天天开心】/api.json", "name": "天威【天天开心】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【荷城茶秀】/api.json", "name": "天威【荷城茶秀】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【南风线路】/api.json", "name": "天威【南风线路】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【小米线路】/api.json", "name": "天威【小米线路】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【潇洒线路】/api.json", "name": "天威【潇洒线路】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【白嫖线路】/api.json", "name": "天威【白嫖线路】" },
+
+{ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxTW/refs/heads/master/本地【道长本地】/api.json", "name": "天威【道长天威】" }
 ]}
