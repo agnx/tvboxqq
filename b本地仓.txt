@@ -69,13 +69,13 @@ sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0","name": "吾爱线路"}
 
 {"url": "","name": "下边是自建线路👇"},
 
-{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/pg/jsm.bmp", "name": "pg瓜子简化版可能会被屏蔽" },
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/pg/jsm.bmp", "name": "pg瓜子简化版可能会被屏蔽" },
 
-{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/yoyo/refs/heads/main/yoyo.json", "name": "yoyo线路" },
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/main/yoyo.json", "name": "yoyo线路" },
 
-{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/饭太硬/api.json", "name": "饭太硬" },
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/饭太硬/api.json", "name": "饭太硬" },
 
-{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/小米/api.json", "name": "小米" },
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/agnx/tvboxqq/refs/heads/master/小米/api.json", "name": "小米" },
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/肥猫/api.json", "name": "肥猫" },
 
